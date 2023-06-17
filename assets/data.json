@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Grocery",
+      "iconName": "storefront",
+      "queue": 1
+    },
+    {
+      "id": 2,
+      "name": "Eating out",
+      "iconName": "fastfood",
+      "queue": 2
+    },
+    {
+      "id": 3,
+      "name": "Herb",
+      "iconName": "spa",
+      "queue": 3
+    },
+    {
+      "id": 4,
+      "name": "Housekeeping",
+      "iconName": "apartment",
+      "queue": 4
+    },
+    {
+      "id": 5,
+      "name": "Entertainment",
+      "iconName": "surfing",
+      "queue": 5
+    },
+    {
+      "id": 6,
+      "name": "Devices",
+      "iconName": "devices_other",
+      "queue": 6
+    },
+    {
+      "id": 7,
+      "name": "Cloth",
+      "iconName": "checkroom",
+      "queue": 7
+    },
+    {
+      "id": 8,
+      "name": "Other",
+      "iconName": "scatter_plot",
+      "queue": 8
+    }
+]
