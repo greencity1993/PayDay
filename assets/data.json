@@ -3,48 +3,56 @@
       "id": 1,
       "name": "Grocery",
       "iconName": "storefront",
+      "backgroundColor": "rgb(160, 196, 255)",
       "queue": 1
     },
     {
       "id": 2,
       "name": "Eating out",
       "iconName": "fastfood",
+      "backgroundColor": "rgb(255, 214, 165)",
       "queue": 2
     },
     {
       "id": 3,
       "name": "Herb",
       "iconName": "spa",
+      "backgroundColor": "rgb(202, 255, 191)",
       "queue": 3
     },
     {
       "id": 4,
       "name": "Housekeeping",
       "iconName": "apartment",
+      "backgroundColor": "rgb(251, 237, 166)",
       "queue": 4
     },
     {
       "id": 5,
       "name": "Entertainment",
       "iconName": "surfing",
+      "backgroundColor": "rgb(155, 246, 255)",
       "queue": 5
     },
     {
       "id": 6,
       "name": "Devices",
       "iconName": "devices_other",
+      "backgroundColor": "rgb(255, 173, 173)",
       "queue": 6
     },
     {
       "id": 7,
       "name": "Cloth",
       "iconName": "checkroom",
+      "backgroundColor": "rgb(189, 178, 255)",
       "queue": 7
     },
     {
       "id": 8,
       "name": "Other",
       "iconName": "scatter_plot",
+      "backgroundColor": "rgb(255, 198, 255)",
       "queue": 8
     }
 ]
