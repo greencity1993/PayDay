@@ -15,7 +15,7 @@
     },
     {
       "id": 3,
-      "name": "Herb",
+      "name": "Herbs",
       "iconName": "spa",
       "backgroundColor": "rgb(202, 255, 191)",
       "queue": 3
@@ -50,9 +50,23 @@
     },
     {
       "id": 8,
+      "name": "Food Delivery",
+      "iconName": "delivery_dining",
+      "backgroundColor": "rgb(255, 105, 235)",
+      "queue": 8
+    },
+    {
+      "id": 9,
+      "name": "Health/Body",
+      "iconName": "add_reaction",
+      "backgroundColor": "rgb(54,234,122)",
+      "queue": 9
+    },
+    {
+      "id": 10,
       "name": "Other",
       "iconName": "scatter_plot",
       "backgroundColor": "rgb(255, 198, 255)",
-      "queue": 8
+      "queue": 10
     }
 ]
