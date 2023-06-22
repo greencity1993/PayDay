@@ -22,14 +22,14 @@
     },
     {
       "id": 4,
-      "name": "Housekeeping",
+      "name": "Homecare",
       "iconName": "apartment",
       "backgroundColor": "rgb(251, 237, 166)",
       "queue": 4
     },
     {
       "id": 5,
-      "name": "Entertainment",
+      "name": "Leisure",
       "iconName": "surfing",
       "backgroundColor": "rgb(155, 246, 255)",
       "queue": 5
