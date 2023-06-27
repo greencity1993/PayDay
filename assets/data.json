@@ -29,7 +29,7 @@
     },
     {
       "id": 5,
-      "name": "Leisure",
+      "name": "Activities",
       "iconName": "surfing",
       "backgroundColor": "rgb(155, 246, 255)",
       "queue": 5
